@@ -1,0 +1,12 @@
+{
+  "name": "@anticrm/service-upload",
+  "version": "0.6.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "dependencies": {
+    "@anticrm/upload": "^0.6.0"
+  }
+}
